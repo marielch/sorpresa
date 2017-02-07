@@ -29,7 +29,16 @@ body{
 }
 
 /* SECCION IMAGEN FONDO + BOTON */
-.background-uno{
+
+.PERD{
+    color:cadetblue;
+    font-size: 50px;
+    color:cadetblue;
+}
+
+.neg{
+	background-color: rgba(0, 0, 0, 0.5);	
+	padding-bottom: 25%;
 	background-image: url(../img/suuu.jpg);
 	background-size: cover;
 	background-position: center 48%;
@@ -53,16 +62,6 @@ body{
     margin-left: 0%;
     width: 100%;
   }
-}
-.PERD{
-    color:cadetblue;
-    font-size: 50px;
-    color:cadetblue;
-}
-
-.neg{
-	background-color: rgba(0, 0, 0, 0.5);	
-	padding-bottom: 25%
 }
 .background-uno h1{
 	margin-top: 15%;
