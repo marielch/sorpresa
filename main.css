@@ -30,11 +30,11 @@ body{
 
 /* SECCION IMAGEN FONDO + BOTON */
 .background-uno{
-	background-image: url(../img/C6A.webp);
+	background-image: url(../img/suuu.jpg);
 	background-size: cover;
 	background-position: center 48%;
     font-family: cursive;
-	color:cadetblue;
+	color:burlywood;
    text-shadow: #CC33FF 0px 2px, #CC33FF 2px 0px, #CC33FF -2px 0px, 
   #CC33FF 0px -2px, #CC33FF -1.4px -1.4px, #CC33FF 1.4px 1.4px, 
     #CC33FF 1.4px -1.4px, #CC33FF -1.4px 1.4px;
